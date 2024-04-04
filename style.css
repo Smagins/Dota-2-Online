@@ -1,0 +1,15 @@
+body {
+	background-color: black;
+	background-image: url('background-header.png');
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+div {
+	position: relative;
+}
+
+.button-play {
+	margin: 0px 520px;
+	top: 700px;
+}
